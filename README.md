@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @UrvishaRaiyani1
+- 👋 Hi, I’m @Urvisha Raiyani.
 - 👀 A passionate front-end developer!
 - 🌱 I’m currently learning Wordpress,Reactjs,Phython and PHP...
